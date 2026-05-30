@@ -28,11 +28,12 @@ This dashboard helps answer:
 
 📊 Key KPIs
 
-KPI| Value
-Total Customers| 7043
-Churn Rate| 26.54%
-Churned Customers| 1869
-Retained Customers| 5174
+| KPI |  Value |
+|------|------|
+|Total Customers| 7043 |
+|Churn Rate| 26.54% |
+|Churned Customers| 1869 |
+|Retained Customers| 5174 |
 
 ---
 
